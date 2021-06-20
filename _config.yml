@@ -1,7 +1,8 @@
 theme: jekyll-theme-midnight
 
-title : Title Test
-subtitle : Sub title Test
-
-description : Arakene Description test
+title : Arakene 블로그
+name : 이름 테스트
+subtitle : 섭 타이틀 테스트
+description : 디스크립션 테스트
+url : "https://kbh97102.github.io/"
 
