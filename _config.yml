@@ -6,6 +6,8 @@ subtitle : 섭 타이틀 테스트
 description : 디스크립션 테스트
 url : "https://kbh97102.github.io/"
 
+show_downloads: false
+
 # Site Author
 author:
   name             : "Arakene"
