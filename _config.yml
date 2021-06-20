@@ -6,3 +6,17 @@ subtitle : 섭 타이틀 테스트
 description : 디스크립션 테스트
 url : "https://kbh97102.github.io/"
 
+# Site Author
+author:
+  name             : "Arakene"
+  avatar           : 
+  bio              : "아라크네당"
+  location         : "South Korea"
+  email            : arakene_dev@naver.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: arakene_dev@naver.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kbh97102.github.io/"
